@@ -1,7 +1,8 @@
 <template>
   <div id="app">
 
-    <h1>Gen AI For All Business - Santosh </h1>
+    <h1>Gen AI For All Business - BUIL/MAS/STAGE DEPLOY </h1>
+    <h2> Santosh Version of the page</h2>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
